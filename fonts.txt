@@ -2,7 +2,6 @@ adobe-source-han-sans-fonts
 adobe-source-han-serif-fonts
 wqy-microhei
 wqy-microhei-lite
-wqy-zenhei
 wqy-bitmapfont
 noto-fonts
 noto-fonts-cjk
