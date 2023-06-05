@@ -1,0 +1,15 @@
+adobe-source-han-sans-fonts
+adobe-source-han-serif-fonts
+wqy-microhei
+wqy-microhei-lite
+wqy-zenhei
+wqy-bitmapfont
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+ttf-noto-nerd
+ttf-hack-nerd
+ttf-firacode-nerd
+ttf-cascadia-code-nerd
+ttf-jetbrains-mono-nerd
